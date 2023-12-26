@@ -1,5 +1,7 @@
 /*
     Problem: https://leetcode.com/problems/reconstruct-itinerary
+    Companies: Google, Facebook, Uber, Bloomberg, Snapchat, Netflix, Amazon, Twitter, Pinterest, Yahoo
+    Topics: Graph, DFS, Euler Circuit 
 */
 
 class Airport {
